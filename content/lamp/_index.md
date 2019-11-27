@@ -3,7 +3,7 @@ title = "Lab Guide"
 weight = 71
 +++
 
-This workshop consists of several hands-on labs that take you from deploying a two-tier LAMP stack application in a single Lightsail instance to having a fully fault tolerant and scalable version of that same application. 
+This workshop consists of several hands-on labs that take you from deploying a two-tier LAMP stack application in a single Lightsail instance to separating the two tiers. 
 
 Specifically, the labs cover:
 
@@ -13,6 +13,6 @@ Specifically, the labs cover:
 
 * Rearchitecting the application by separating the front-end from the database
 
-* Scaling and load balancing the web front-end. 
+ 
 
  
